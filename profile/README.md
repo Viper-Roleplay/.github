@@ -20,7 +20,7 @@ Want to participate in Viper Roleplay's adventures? Here's how you can join us:
 
 ## Stay Connected 📡
 
-- 🌐 Visit our [Website]([https://viper-roleplay-website.com](https://viperroleplay.tebex.io))
+- 🌐 Visit our [Website](https://viperroleplay.tebex.io)
 - 💬 Join our [Discord](https://discord.gg/viperroleplay)
 
 ## Support Us 🛠️
