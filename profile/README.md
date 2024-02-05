@@ -1,7 +1,5 @@
 # Welcome to Viper Roleplay 👋
 
-![Viper Roleplay Banner](https://your-organization-banner-url.com/banner.jpg)
-
 Welcome to the GitHub profile of Viper Roleplay, the premier community for immersive and dynamic roleplay experiences. We are dedicated to pushing the boundaries of what's possible in roleplay adventures.
 
 ## Who We Are 🎭
