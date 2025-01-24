@@ -42,8 +42,8 @@ We utilize a range of technologies to deliver efficient and maintainable systems
 - **💻 Languages:** Lua, JavaScript, HTML/CSS.  
 - **📦 Frameworks:** Vue.js (Composition API), PrimeVue.  
 - **💾 Databases:** MySQL, MongoDB.  
-- **🛠️ FiveM Frameworks:** QB-Core
-- **📡 Utilities:** Discord integrations, JSON modules, and advanced in-game reporting systems.
+- **🛠️ FiveM Frameworks:** QB-Core.
+- **📡 Utilities:** Discord integrations, JSON modules and much more.
 
 ## 📡 Stay Connected
 
