@@ -1,39 +1,57 @@
-# Welcome to Viper Roleplay 👋
+# 🐍 Viper Roleplay  
 
-Welcome to the GitHub profile of Viper Roleplay, the premier community for immersive and dynamic roleplay experiences. We are dedicated to pushing the boundaries of what's possible in roleplay adventures.
+Welcome to the **Viper Roleplay** GitHub organization! 🌟 Established on **November 19th, 2021**, Viper Roleplay is a community-driven FiveM project dedicated to delivering high-quality roleplay experiences. While most of our resources are private 🔒, this space serves as a central hub for our development team and trusted collaborators.  
 
-## Who We Are 🎭
+## 🏙️ About Viper Roleplay  
 
-Viper Roleplay is an organization focused on developing and hosting roleplaying game servers that provide our players with a rich narrative and an engaging gameplay experience. Our team is comprised of passionate developers, storytellers, and gamers who collaborate to create unforgettable moments in gaming.
+At Viper Roleplay, we pride ourselves on fostering a culture of **respect**, **kindness**, **honesty**, and **integrity**. ❤️ Our mission is to create immersive and engaging experiences for our players, ensuring they have a safe and enjoyable place to escape and connect.  
 
-## Our Mission 🌟
+We continuously refine and expand our server with features and content tailored to community feedback. 🔄 From unique jobs and businesses to custom scripts and assets, every aspect of Viper Roleplay is designed with quality and innovation in mind. 🎨  
 
-To innovate and elevate the roleplaying scene through advanced technologies, compelling narratives, and community-driven content. We believe in the power of story and strive to create a welcoming environment where all can become their own unique characters and leave a lasting impact on the world we've built.
+## 🔐 Development and Permissions  
 
-## Get Involved 🤝
+Most of our resources are private to maintain the integrity and exclusivity of our content. When a new developer joins the team, permissions are granted progressively based on their role and the specific projects they’re involved in.  
 
-Want to participate in Viper Roleplay's adventures? Here's how you can join us:
+👩‍💻 **If you're a new developer:**  
 
-1. **Star our Repositories:** Check out our work and give it a star if you like what you see!
-2. **Contribute:** Contributions are always welcome! Whether you're improving code, fixing bugs, or offering creative ideas, we value your input.
-3. **Join our Community:** Follow us here on GitHub and join our Discord (link below) to stay up to date with events and announcements.
+1. **📝 Request Permissions:** You will receive access to repositories as needed for your tasks.  
+2. **📂 Follow Branching Standards:** Familiarize yourself with our branching practices (detailed below).  
 
-## Stay Connected 📡
+## 🌿 Branching Standards  
+
+One of the most important aspects of Viper Roleplay’s development workflow is maintaining **proper branching practices**. 🛠️ This ensures efficient collaboration, minimizes conflicts, and maintains stability in production.  
+
+### 🚀 Our Branching Workflow  
+
+1. **🌟 Main Branch (Production):** This branch reflects the live version of the resource. Only thoroughly tested and finalized updates should be merged here.  
+2. **⚙️ Development Branch:** All active development work is merged here after passing initial testing.  
+3. **✨ Feature-Specific Branches:**  
+   - When starting a new feature, create a branch named after the feature (e.g., `feature-name`).  
+   - Develop and test the feature within this branch.  
+   - Once the feature is complete and tested, merge it into the `development` branch.  
+4. **✅ Final Testing:** After all necessary features are merged into `development` and tested thoroughly, changes are merged into `main`.  
+
+### 🛠️ Adapting Older Resources  
+
+We are actively adjusting some older resources to comply with this branching standard. If you’re working on legacy code, ensure it is refactored to follow these practices whenever possible.  
+
+## 🔧 Tools and Technologies  
+
+We utilize a range of technologies to deliver efficient and maintainable systems:  
+
+- **💻 Languages:** Lua, JavaScript, HTML/CSS.  
+- **📦 Frameworks:** Vue.js (Composition API), PrimeVue.  
+- **💾 Databases:** MySQL, MongoDB.  
+- **🛠️ FiveM Frameworks:** ESX, QB-Core, and custom frameworks.  
+- **📡 Utilities:** Discord integrations, JSON modules, and advanced in-game reporting systems.
+
+## 📡 Stay Connected
 
 - 🌐 Visit our [Website](https://viperroleplay.tebex.io)
 - 💬 Join our [Discord](https://discord.gg/viperroleplay)
 
-## Support Us 🛠️
+## 🌟 Join the Journey  
 
-If you love what we do and want to support Viper Roleplay, consider making a donation. Your support helps us keep our servers running and fuels future developments.
+Viper Roleplay is more than a server—it’s a thriving community of passionate players and developers. 🐾 By working together, we aim to redefine what FiveM roleplay can achieve.  
 
-## Acknowledgements 🏆
-
-- Thanks to all our contributors who keep our projects thriving.
-- Shout out to our community for helping us fine-tune the roleplay experience.
-
----
-
-We are constantly evolving, writing new chapters in our story, and we invite you to be a part of it!
-
-Viper Roleplay - Where Stories Come Alive 🌍
+Thank you for being part of our team and helping us build something truly extraordinary! 🎉  
